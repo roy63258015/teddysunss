@@ -57,13 +57,13 @@ shadowsocks_go_file_32="shadowsocks-server-linux32-1.2.1"
 shadowsocks_go_url_32="http://dl.teddysun.com/shadowsocks/shadowsocks-server-linux32-1.2.1.gz"
 shadowsocks_go_init="/etc/init.d/shadowsocks-go"
 shadowsocks_go_config="/etc/shadowsocks-go/config.json"
-shadowsocks_go_centos="https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-go"
-shadowsocks_go_debian="https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-go-debian"
+shadowsocks_go_centos="https://raw.githubusercontent.com/roy63258015/teddysunss/blob/master/shadowsocks-go"
+shadowsocks_go_debian="https://raw.githubusercontent.com/roy63258015/teddysunss/blob/master/shadowsocks-go-debian"
 
 shadowsocks_libev_init="/etc/init.d/shadowsocks-libev"
 shadowsocks_libev_config="/etc/shadowsocks-libev/config.json"
-shadowsocks_libev_centos="https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-libev"
-shadowsocks_libev_debian="https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-libev-debian"
+shadowsocks_libev_centos="https://raw.githubusercontent.com/roy63258015/teddysunss/blob/master/shadowsocks-libev"
+shadowsocks_libev_debian="https://raw.githubusercontent.com/roy63258015/teddysunss/blob/master/shadowsocks-libev-debian"
 
 # Stream Ciphers
 common_ciphers=(
